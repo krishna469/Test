@@ -1,2 +1,3 @@
 # Test
-this is test for only for learning purpose
+this is test only for learning purpose
+Now I am checking all the options
